@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 # Hi, I'm Anuraj 👋🏾
 <img src="https://raw.githubusercontent.com/anurajktk/anurajktk/master/img/GithubReadne.png">
-I'm a student who loves Computer Programming & Web Development. I have experience in Data Science, Machine Learning in Python & I do Web Development in Python using Django FrameWork. Now i'm learning Data structure and algorithm in C.
+I'm a student who loves Computer Programming & Web Development. I have experience in Data Science, Machine Learning in Python & I do Web Development in Nodejs. Now i'm learning Data structure and algorithm in C.
 
 
 <!-- - 🔭 I’m currently working on ...
